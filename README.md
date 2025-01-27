@@ -1,4 +1,4 @@
-# bags_shop
+# Fashion Store
 
 A new Flutter project.
 
